@@ -1,5 +1,15 @@
 #!/bin/bash
 
+#================================================#
+#            Power Management Utility            #
+#------------------------------------------------#
+# version: 0.1.0                                 #
+# Release date: 10 Dec 2023                      #
+# Source:                                        #
+# https://github.com/Monotoba/power_manager.git  #
+#                                                #
+#================================================#
+
 # Function to clear screen and display header
 display_header() {
     clear  # Clear screen
