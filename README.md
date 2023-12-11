@@ -36,5 +36,5 @@ Contributions are welcome! If you find a bug or have an enhancement in mind, fee
 
 ## Contact
 
-For any questions or concerns, please contact Randy via email: randy@example.com
+For any questions or concerns, please post an issue here.
 
